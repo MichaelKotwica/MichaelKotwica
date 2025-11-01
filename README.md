@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My Name is Michael, and I am a knowledgeable Depaul Student interested in Java & Software Engineering!
+My name is Michael, and I am a knowledgeable Depaul Student interested in Java & Software Engineering!
 
 - 🔭 I’m currently working on a plant care application prototype
 - 🌱 I’m currently learning High Fidelity Prototyping

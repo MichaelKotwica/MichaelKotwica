@@ -2,8 +2,8 @@
 
 My name is Michael, and I am a knowledgeable Depaul Student interested in Java & Software Engineering!
 
-- 🔭 I’m currently working on a plant care application prototype
-- 🌱 I’m currently learning High Fidelity Prototyping
+- 🔭 I’m currently working on a sample project with UI
+- 🌱 I’m currently learning CSS
 - ⭐ Recent Projects:
   - 🖥️ Software:
     - [Stock Exchange Simulation](https://github.com/MichaelKotwica/DePaulStockExchange)

@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Michael, and I am a recently graduated Depaul Student interested in Java & Software Engineering!
+My name is Michael, and I am a recent Depaul graduate interested in Java & Software Engineering!
 
 - 🔭 I’m currently reviewing object oriented and devops principles
 <!--- - 🌱 I’m currently learning CSS -->

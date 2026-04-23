@@ -2,7 +2,7 @@
 
 My name is Michael, and I am a recent Depaul graduate interested in Java & Software Engineering!
 
-- 🔭 I’m currently reviewing object oriented and devops principles
+- 🔭 I’m currently learning spring boot fundamentals
 <!--- - 🌱 I’m currently learning CSS -->
 - ⭐ Recent Projects:
   - 🖥️ Software:
